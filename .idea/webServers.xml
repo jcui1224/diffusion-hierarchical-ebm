@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cd60b4e2-1569-43d5-b398-486d74b0b062" name="new server">
+        <fileTransfer rootFolder="/Tian-ds/jcui7/github/diffusion-hierarchical-ebm" accessType="SFTP" host="155.246.89.190" port="22" sshConfigId="eca4913b-e4a6-4146-9ae2-4f9dfc20dc43" sshConfig="new server" />
+      </webServer>
+    </option>
+  </component>
+</project>
